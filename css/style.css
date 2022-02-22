@@ -1,0 +1,9 @@
+div {
+  width: 400px;
+  height: 400px;
+  background-image: url("icon.png");
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: relative;
+  background-color: aliceblue;
+}
